@@ -266,7 +266,7 @@
     <string name="prefs_subtitles_date_format_text">Päivämäärämuoto</string>
     <string name="prefs_subtitles_date_text">Treffiaika)</string>
     <string name="prefs_subtitles_date_time_system_text">Järjestelmällinen</string>
-    <string name="prefs_subtitles_in_english_text">Englannin kieliset tekstitykset</string>
+    <string name="prefs_subtitles_in_english_text">Englanninkieliset tekstitykset</string>
     <string name="prefs_subtitles_settings_sum_text">Peittovideon tekstitykset: päivämäärä (aika), sijaintiosoite, koordinaatit ja nopeus</string>
     <string name="prefs_subtitles_settings_text">Tekstitysasetukset</string>
     <string name="prefs_subtitles_size_text">Suurenna tekstin kokoa</string>
@@ -283,7 +283,7 @@
     <string name="prefs_tip_apply_auto_rec_on_text">Palaa aloitusnäyttöön (tallenteet) ottaaksesi tämän asetuksen käyttöön ja käynnistääksesi seurantapalvelun</string>
     <string name="prefs_toolbar_title_setting">asetukset</string>
     <string name="prefs_ui_click_none_text">Ei mitään tehtävää</string>
-    <string name="prefs_ui_click_start_stop_rec_text">Aloita /lopeta tallennus</string>
+    <string name="prefs_ui_click_start_stop_rec_text">Aloita / lopeta tallennus</string>
     <string name="prefs_ui_click_text">Napauta näyttöä nopeasti</string>
     <string name="prefs_ui_long_click_text">Paina näyttöä pitkään</string>
     <string name="prefs_value_secs_few_text">sekuntia</string>
@@ -294,7 +294,7 @@
     <string name="prefs_video_bitrate_text">Bittinopeus (laatu)</string>
     <string name="prefs_video_camera_control_scene_mode_night_text">Kameran ohjausohjelma (yö)</string>
     <string name="prefs_video_camera_control_scene_mode_text">Kameran ohjausohjelma (päivä)</string>
-    <string name="prefs_video_control_scene_mode_face_priority_text">Yleinen /kasvojen prioriteetti</string>
+    <string name="prefs_video_control_scene_mode_face_priority_text">Yleinen / kasvojen prioriteetti</string>
     <string name="prefs_video_control_scene_mode_hdr_text">HDR (High Dynamic Range)</string>
     <string name="prefs_video_control_scene_mode_night_text">Yö (heikossa valaistuksessa)</string>
     <string name="prefs_video_day_night_auto_mode_day_start_time_text">Auringonnousun aika (auringonnousu)</string>
